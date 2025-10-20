@@ -59,4 +59,4 @@ Gerenciamento de branches, code reviews (Pull Requests) e integração contínua
 📫 Conecte-se Comigo
 Profissional aberto a novas oportunidades e colaborações em projetos desafiadores.
 
-<p align="left"> <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:seu-email@aqui.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="left"> <a href="www.linkedin.com/in/joão-pedro-sandoval-9048582b7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:jpsandovalveras@aqui.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
