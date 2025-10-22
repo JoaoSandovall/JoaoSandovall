@@ -52,11 +52,9 @@ Controle de versão utilizando fluxos de trabalho eficientes (GitFlow/Trunk-Base
 Gerenciamento de branches, code reviews (Pull Requests) e integração contínua (GitHub Actions).
 
 📊 Estatísticas de Atividade no GitHub
-(Esta seção é opcional, mas "chama atenção" e mostra consistência)
 
 <div align="center"> <a href="https://github.com/JoaoSandovall"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSandovall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSandovall&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
 
 📫 Conecte-se Comigo
-Profissional aberto a novas oportunidades e colaborações em projetos desafiadores.
 
 <p align="left"> <a href="www.linkedin.com/in/joão-pedro-sandoval-9048582b7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:jpsandovalveras@aqui.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
