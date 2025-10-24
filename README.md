@@ -1,60 +1,72 @@
 <h1 align="center">Desenvolvedor Back-End Python</h1>
 
-<p align="center"> Desenvolvedor de software com foco na construção de sistemas back-end robustos, escaláveis e de alta performance.
+<p align="center">
+  Desenvolvedor de software focado em sistemas back-end escaláveis.
+  <br />
+  Especializado no ecossistema Python para o desenvolvimento de APIs RESTful, micro-serviços e aplicações monolíticas.
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,sqlite,docker,git" />
+  </a>
+</p>
 
-Especializado no ecossistema Python para o desenvolvimento de APIs RESTful complexas, desde micro-serviços leves até aplicações monolíticas seguras e completas. </p>
+## Core Stack & Ferramentas
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,sqlite,docker,git" /> </a> </p>
+Foco em arquiteturas de serviços eficientes, aplicando as seguintes ferramentas:
 
-Core Stack & Ferramentas
-Minha especialização se concentra em criar arquiteturas de serviços eficientes, utilizando as ferramentas certas para cada desafio.
+### 1. Frameworks Back-End (Python)
 
-1. Frameworks Back-End (Python)
-Django & Django REST Framework (DRF):
+* **Django & Django REST Framework (DRF):**
+    * Construção de aplicações monolíticas.
+    * Desenvolvimento de APIs utilizando o ORM, sistema de autenticação e admin.
 
-Construção de aplicações monolíticas robustas e seguras.
+* **FastAPI:**
+    * Desenvolvimento de micro-serviços assíncronos de alta performance.
+    * Validação de dados (Pydantic), documentação automática (Swagger/ReDoc) e performance ASGI.
 
-Desenvolvimento rápido de APIs com o poder do ORM do Django, sistema de autenticação e painel de administração.
+* **Flask:**
+    * Desenvolvimento de micro-serviços leves e protótipos.
+    * Flexibilidade para integração com diferentes ORMs e bibliotecas.
 
-FastAPI:
+### 2. Bancos de Dados & Gerenciamento de Dados
 
-Ideal para micro-serviços assíncronos e de altíssima performance.
+* **Linguagem SQL:** Proficiência em queries (JOINs, GROUP BY), stored procedures e otimização.
+* **PostgreSQL:** SGBD principal para aplicações em produção que exigem integridade e escalabilidade.
+* **MySQL & SQLite:** Utilização em ambientes web e desenvolvimento local.
+* **ORMs:** Uso do Django ORM, SQLAlchemy (com Flask/FastAPI) e `asyncpg` para interações assíncronas.
 
-Utilização de tipagem de dados (Pydantic) para validação automática, documentação (Swagger/ReDoc) e performance assíncrona (ASGI).
+### 3. DevOps & Ecossistema
 
-Flask:
+* **Docker:**
+    * Containerização de aplicações (APIs, BDs) para consistência entre ambientes (Dev, Teste, Prod).
+    * Criação de `Dockerfiles` e orquestração com `docker-compose`.
 
-Desenvolvimento de micro-serviços leves, protótipos rápidos e aplicações web minimalistas.
+* **Git & GitHub:**
+    * Controle de versão (GitFlow/Trunk-Based).
+    * Gerenciamento de branches, Pull Requests (code review) e CI (GitHub Actions).
 
-Flexibilidade para integração com diferentes ORMs e bibliotecas, mantendo o controle granular sobre a arquitetura.
+---
 
-2. Bancos de Dados & Gerenciamento de Dados
-Linguagem SQL: Proficiência completa em SELECT, JOINs complexos, GROUP BY, stored procedures e otimização de queries.
+## 📊 Estatísticas de Atividade
 
-PostgreSQL: Meu SGBD preferencial para aplicações em produção que exigem integridade de dados, escalabilidade e recursos avançados.
+<div align="center">
+  <a href="https://github.com/JoaoSandovall">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSandovall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSandovall&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-MySQL: Experiência sólida em ambientes web tradicionais, garantindo performance e confiabilidade.
+---
 
-ORMs: Utilização eficaz dos ORMs do Django, SQLAlchemy (com Flask/FastAPI) e asyncpg para interações assíncronas.
+## 📫 Contato
 
-3. DevOps & Ecossistema
-Docker:
-
-Containerização de aplicações (APIs, bancos de dados) para garantir ambientes de desenvolvimento, testes e produção consistentes.
-
-Criação de Dockerfiles otimizados e orquestração básica com docker-compose.
-
-Git & GitHub:
-
-Controle de versão utilizando fluxos de trabalho eficientes (GitFlow/Trunk-Based).
-
-Gerenciamento de branches, code reviews (Pull Requests) e integração contínua (GitHub Actions).
-
-📊 Estatísticas de Atividade no GitHub
-
-<div align="center"> <a href="https://github.com/JoaoSandovall"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSandovall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSandovall&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
-
-📫 Conecte-se Comigo
-
-<p align="left"> <a href="www.linkedin.com/in/joão-pedro-sandoval-9048582b7" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:jpsandovalveras@aqui.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="left">
+  <a href="www.linkedin.com/in/joão-pedro-sandoval-9048582b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jpsandovalveras@aqui.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
