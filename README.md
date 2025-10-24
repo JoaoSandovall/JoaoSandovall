@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Back-End Python & Especialista em API</h1>
+<h1 align="center">Desenvolvedor Back-End Python</h1>
 
 <p align="center"> Desenvolvedor de software com foco na construção de sistemas back-end robustos, escaláveis e de alta performance.
 
