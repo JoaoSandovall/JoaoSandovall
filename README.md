@@ -54,8 +54,6 @@ API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve 
 * **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
 * **Repositório:** `[Link para o seu repositório aqui]`
 
-*(Adicione aqui outros projetos, como a sua App de Clima com PyQt5 ou o To-Do List)*
-
 ---
 
 ## 📊 Estatísticas de Atividade
