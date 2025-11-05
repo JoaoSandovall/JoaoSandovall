@@ -45,14 +45,14 @@ Plataforma multi-usuário (estilo Linktree) onde utilizadores podem registar-se,
 * **Funcionalidades:** Autenticação (Login/Registo), CRUD completo de links, upload de imagem de perfil, edição de perfil de utilizador.
 * **Tecnologias:** `Python`, `Flask`, `PostgreSQL`, `SQLAlchemy`, `Flask-Migrate`, `Gunicorn`.
 * **Deploy:** Aplicação totalmente "containerizada" e implementada na web (Render).
-* **Repositório:** `[Link para o seu repositório aqui]`
+* **Repositório:** `https://github.com/JoaoSandovall/Agregador_Links`
 
 ### 2. Pokémon API (Micro-serviço)
 API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve dados de Pokémon de forma estruturada.
 
 * **Funcionalidades:** Rotas assíncronas, validação de dados com Pydantic, documentação automática (Swagger).
 * **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
-* **Repositório:** `[Link para o seu repositório aqui]`
+* **Repositório:** `https://github.com/JoaoSandovall/pokemon_api`
 
 ---
 
