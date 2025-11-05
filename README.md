@@ -1,51 +1,60 @@
-<h1 align="center">Desenvolvedor Back-End Python</h1>
+<h1 align="center">Desenvolvedor Python (Back-End & Full-Stack)</h1>
 
 <p align="center">
-  Desenvolvedor de software focado em sistemas back-end escaláveis.
-  <br />
-  Especializado no ecossistema Python para o desenvolvimento de APIs RESTful, micro-serviços e aplicações monolíticas.
+  Desenvolvedor de software focado em back-end Python. Experiência na construção de APIs RESTful, micro-serviços e aplicações web completas, integrando bases de dados PostgreSQL e front-ends em React.js.
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,sqlite,docker,git" />
-  </a>
-</p>
+---
 
-## Core Stack & Ferramentas
+## 🛠️ Stack de Tecnologias
 
-Foco em arquiteturas de serviços eficientes, aplicando as seguintes ferramentas:
+<table>
+  <tr>
+    <td align="center"><strong>Back-End</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,flask,fastapi,django,gunicorn" alt="Back-End Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Front-End</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,html,css" alt="Front-End Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Bancos de Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sqlalchemy" alt="Database Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github" alt="DevOps Skills" />
+    </td>
+  </tr>
+</table>
 
-### 1. Frameworks Back-End (Python)
+---
 
-* **Django & Django REST Framework (DRF):**
-    * Construção de aplicações monolíticas.
-    * Desenvolvimento de APIs utilizando o ORM, sistema de autenticação e admin.
+## 🚀 Projetos em Destaque
 
-* **FastAPI:**
-    * Desenvolvimento de micro-serviços assíncronos de alta performance.
-    * Validação de dados (Pydantic), documentação automática (Swagger/ReDoc) e performance ASGI.
+### 1. Agregador de Links (SaaS)
+Plataforma multi-usuário (estilo Linktree) onde utilizadores podem registar-se, gerir os seus links e personalizar um perfil público com foto e biografia.
 
-* **Flask:**
-    * Desenvolvimento de micro-serviços leves e protótipos.
-    * Flexibilidade para integração com diferentes ORMs e bibliotecas.
+* **Funcionalidades:** Autenticação (Login/Registo), CRUD completo de links, upload de imagem de perfil, edição de perfil de utilizador.
+* **Tecnologias:** `Python`, `Flask`, `PostgreSQL`, `SQLAlchemy`, `Flask-Migrate`, `Gunicorn`.
+* **Deploy:** Aplicação totalmente "containerizada" e implementada na web (Render).
+* **Repositório:** `[Link para o seu repositório aqui]`
 
-### 2. Bancos de Dados & Gerenciamento de Dados
+### 2. Pokémon API (Micro-serviço)
+API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve dados de Pokémon de forma estruturada.
 
-* **Linguagem SQL:** Proficiência em queries (JOINs, GROUP BY), stored procedures e otimização.
-* **PostgreSQL:** SGBD principal para aplicações em produção que exigem integridade e escalabilidade.
-* **MySQL & SQLite:** Utilização em ambientes web e desenvolvimento local.
-* **ORMs:** Uso do Django ORM, SQLAlchemy (com Flask/FastAPI) e `asyncpg` para interações assíncronas.
+* **Funcionalidades:** Rotas assíncronas, validação de dados com Pydantic, documentação automática (Swagger).
+* **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
+* **Repositório:** `[Link para o seu repositório aqui]`
 
-### 3. DevOps & Ecossistema
-
-* **Docker:**
-    * Containerização de aplicações (APIs, BDs) para consistência entre ambientes (Dev, Teste, Prod).
-    * Criação de `Dockerfiles` e orquestração com `docker-compose`.
-
-* **Git & GitHub:**
-    * Controle de versão (GitFlow/Trunk-Based).
-    * Gerenciamento de branches, Pull Requests (code review) e CI (GitHub Actions).
+*(Adicione aqui outros projetos, como a sua App de Clima com PyQt5 ou o To-Do List)*
 
 ---
 
