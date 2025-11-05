@@ -63,7 +63,7 @@ Foco em arquiteturas de serviços eficientes, aplicando as seguintes ferramentas
 ## 📫 Contato
 
 <p align="left">
-  <a href="www.linkedin.com/in/joão-pedro-sandoval-9048582b7" target="_blank">
+  <a href="www.linkedin.com/in/joão-pedro-sandoval" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jpsandovalveras@aqui.com" target="_blank">
