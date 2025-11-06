@@ -65,6 +65,7 @@ Este projeto é uma ferramenta de auditoria automatizada para documentos legais,
     * **Auditoria Completa:** Aplica mais de 12 regras, verificando desde o cabeçalho (nome do Ministério, Epígrafe, Ementa) e a numeração de Artigos (Ex: `Art. 1º`, `Art. 10.`) até a pontuação de Incisos e Alíneas.
 * **Tecnologias:** `Python`, `Streamlit` (para interface web), `re` (Expressões Regulares para análise de texto).
 * **Repositório:** `https://github.com/JoaoSandovall/Verificacao_minuta`
+* **Link para o sistema:** `https://verificacaominuta-lgswcag4koxnyevwk8e3n4.streamlit.app/`
 ---
 
 ## 📊 Estatísticas de Atividade
