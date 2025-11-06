@@ -54,6 +54,17 @@ API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve 
 * **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
 * **Repositório:** `https://github.com/JoaoSandovall/pokemon_api`
 
+### 3. 🔎 Auditor de Minutas de Resolução (Projeto de Estágio)
+
+Este projeto é uma ferramenta de auditoria automatizada para documentos legais, como minutas de resoluções. Ele garante que os documentos sigam rigorosos padrões de redação oficial e formatação.
+
+* **Propósito:** Validar automaticamente a formatação de minutas de resolução com base em um conjunto de regras de estilo e redação.
+* **Funcionalidades Principais:**
+    * **Análise Estrutural:** Identifica e separa o corpo principal da Resolução do **ANEXO** para aplicar regras específicas a cada seção.
+    * **Entrada Flexível:** Aceita texto colado ou upload de arquivos nos formatos `.txt`, `.docx` e `.pdf`.
+    * **Auditoria Completa:** Aplica mais de 12 regras, verificando desde o cabeçalho (nome do Ministério, Epígrafe, Ementa) e a numeração de Artigos (Ex: `Art. 1º`, `Art. 10.`) até a pontuação de Incisos e Alíneas.
+* **Tecnologias:** `Python`, `Streamlit` (para interface web), `re` (Expressões Regulares para análise de texto).
+* **Repositório:** `https://github.com/JoaoSandovall/Verificacao_minuta`
 ---
 
 ## 📊 Estatísticas de Atividade
