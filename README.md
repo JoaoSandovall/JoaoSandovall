@@ -85,7 +85,7 @@ Este projeto é uma ferramenta de auditoria automatizada para documentos legais,
   <a href="www.linkedin.com/in/joão-pedro-sandoval" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jpsandovalveras@aqui.com" target="_blank">
+  <a href="jpsandovalveras@aqui.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
