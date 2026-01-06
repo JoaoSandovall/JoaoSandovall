@@ -39,7 +39,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 1. Agregador de Links (SaaS)
+### 1. Agregador de Links (Projeto pessoal)
 Plataforma multi-usuário (estilo Linktree) onde utilizadores podem registar-se, gerir os seus links e personalizar um perfil público com foto e biografia.
 
 * **Funcionalidades:** Autenticação (Login/Registo), CRUD completo de links, upload de imagem de perfil, edição de perfil de utilizador.
@@ -47,14 +47,14 @@ Plataforma multi-usuário (estilo Linktree) onde utilizadores podem registar-se,
 * **Deploy:** Aplicação totalmente "containerizada" e implementada na web (Render).
 * **Repositório:** `https://github.com/JoaoSandovall/Agregador_Links`
 
-### 2. Pokémon API (Micro-serviço)
+### 2. Pokémon API (Projeto Pessoal)
 API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve dados de Pokémon de forma estruturada.
 
 * **Funcionalidades:** Rotas assíncronas, validação de dados com Pydantic, documentação automática (Swagger).
 * **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
 * **Repositório:** `https://github.com/JoaoSandovall/pokemon_api`
 
-### 3. 🔎 Auditor de Minutas de Resolução (Projeto de Estágio)
+### 3. 🔎 Revisão de Minutas de Resolução (Projeto de Estágio)
 
 Este projeto é uma ferramenta de auditoria automatizada para documentos legais, como minutas de resoluções. Ele garante que os documentos sigam rigorosos padrões de redação oficial e formatação.
 
