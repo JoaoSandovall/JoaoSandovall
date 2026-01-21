@@ -1,7 +1,7 @@
 <h1 align="center">Desenvolvedor Python (Back-End & Full-Stack)</h1>
 
 <p align="center">
-  Desenvolvedor de software focado em back-end Python. Experiência na construção de APIs RESTful, micro-serviços e aplicações web completas, integrando bases de dados PostgreSQL e front-ends em React.js.
+  Desenvolvedor back-end Python. Experiência na construção de APIs RESTful, micro-serviços e aplicações web, integração de bases de dados PostgreSQL.
 </p>
 
 ---
