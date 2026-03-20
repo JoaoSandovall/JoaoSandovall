@@ -1,7 +1,7 @@
 <h1 align="center">Desenvolvedor Python (Back-End & Full-Stack)</h1>
 
 <p align="center">
-  Desenvolvedor back-end Python. Experiência na construção de APIs RESTful, micro-serviços e aplicações web, integração de bases de dados PostgreSQL.
+  Desenvolvedor focado na construção de APIs RESTful, microserviços e aplicações web escaláveis, com sólida experiência em integração de dados e automação de processos.
 </p>
 
 ---
@@ -12,13 +12,13 @@
   <tr>
     <td align="center"><strong>Back-End</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,flask,fastapi,django,gunicorn" alt="Back-End Skills" />
+      <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,gunicorn" alt="Back-End Skills" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Front-End</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,html,css" alt="Front-End Skills" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" alt="Front-End Skills" />
     </td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@
   <tr>
     <td align="center"><strong>DevOps & Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github" alt="DevOps Skills" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="DevOps Skills" />
     </td>
   </tr>
 </table>
@@ -39,36 +39,37 @@
 
 ## 🚀 Projetos em Destaque
 
-### 1. Agregador de Links (Projeto pessoal)
-Plataforma multi-usuário (estilo Linktree) onde utilizadores podem registar-se, gerir os seus links e personalizar um perfil público com foto e biografia.
+### 1. 🔎 Auditor de Minutas de Resolução
+Ferramenta automatizada para validação de conformidade estrutural e redacional de atos normativos, alinhada ao Decreto nº 12.002/2024.
 
-* **Funcionalidades:** Autenticação (Login/Registo), CRUD completo de links, upload de imagem de perfil, edição de perfil de utilizador.
-* **Tecnologias:** `Python`, `Flask`, `PostgreSQL`, `SQLAlchemy`, `Flask-Migrate`, `Gunicorn`.
-* **Deploy:** Aplicação totalmente "containerizada" e implementada na web (Render).
-* **Repositório:** `https://github.com/JoaoSandovall/Agregador_Links`
+* **Stack:** Python 3.11+, FastAPI, Pydantic, Regex, JavaScript (ES6+), HTML5/CSS3 e Vercel.
+* **Motor de Auditoria:** Análise léxica e sintática via Regex para validar a hierarquia de artigos, parágrafos, incisos e alíneas.
+* **Arquitetura Dinâmica:** Uso do padrão *Factory* para aplicação de regras específicas por órgão (CONDEL, CEG, COARIDE ou CNRH).
+* **Interface de Revisão:** Frontend com destaques visuais de erros e sistema de "Correção em um Clique" para ajustes automáticos.
+* **Infraestrutura:** API assíncrona integrada para deploy serverless na Vercel.
+* * **Projeto** [Auditor de Minutas](https://verificacao-minuta.vercel.app/)
 
-### 2. Pokémon API (Projeto Pessoal)
-API RESTful que consome a PokéAPI pública, aplica lógica de negócio e serve dados de Pokémon de forma estruturada.
+### 2. 🔗 Agregador de Links Multiusuário (SaaS)
+Aplicação Full Stack para gerenciamento de perfis públicos com sistema de autenticação e personalização dinâmica.
 
-* **Funcionalidades:** Rotas assíncronas, validação de dados com Pydantic, documentação automática (Swagger).
-* **Tecnologias:** `Python`, `FastAPI`, `Pydantic`, `HTTPX` (para chamadas async).
-* **Repositório:** `https://github.com/JoaoSandovall/pokemon_api`
+* **Stack:** Python, Flask, PostgreSQL, SQLAlchemy, Flask-Login, Bootstrap 5 e Render.
+* **Desenvolvimento Backend:** Sistema completo de autenticação (Registro/Login) com criptografia e proteção de rotas.
+* **Gestão de Dados:** Modelagem relacional com PostgreSQL e controle de versões de esquema via Flask-Migrate (Alembic).
+* **Funcionalidades:** CRUD completo de links, upload de imagens de perfil e geração de páginas públicas personalizadas.
+* **Projeto:** [Agregador de Links](https://agregador-links.onrender.com/login)
 
-### 3. 🔎 Revisão de Minutas de Resolução (Projeto de Estágio)
+### 3. 🚗 Simulador de Financiamento & Consulta FIPE
+Ferramenta de cálculo financeiro e consumo de dados automotivos em tempo real.
 
-Este projeto é uma ferramenta de auditoria automatizada para documentos legais, como minutas de resoluções. Ele garante que os documentos sigam rigorosos padrões de redação oficial e formatação.
+* **Stack:** Python, Flask, Docker, REST API, JavaScript (Async/Await), Vercel.
+* **Integração de Dados:** Consumo assíncrono da API Parallelum para recuperação de dados oficiais da Tabela FIPE.
+* **Motor de Cálculo:** Implementação da Tabela Price para simulação de parcelamentos e juros compostos.
+* **DevOps:** Dockerização da aplicação e deploy via Serverless Functions na Vercel.
+* **Projeto:** [Simulador FIPE](https://github.com/JoaoSandovall/simulador_por_fipe)
 
-* **Propósito:** Validar automaticamente a formatação de minutas de resolução com base em um conjunto de regras de estilo e redação.
-* **Funcionalidades Principais:**
-    * **Análise Estrutural:** Identifica e separa o corpo principal da Resolução do **ANEXO** para aplicar regras específicas a cada seção.
-    * **Entrada Flexível:** Aceita texto colado ou upload de arquivos nos formatos `.txt`, `.docx` e `.pdf`.
-    * **Auditoria Completa:** Aplica mais de 12 regras, verificando desde o cabeçalho (nome do Ministério, Epígrafe, Ementa) e a numeração de Artigos (Ex: `Art. 1º`, `Art. 10.`) até a pontuação de Incisos e Alíneas.
-* **Tecnologias:** `Python`, `Streamlit` (para interface web), `re` (Expressões Regulares para análise de texto).
-* **Repositório:** `https://github.com/JoaoSandovall/Verificacao_minuta`
-* **Link para o sistema:** `https://verificacaominuta-lgswcag4koxnyevwk8e3n4.streamlit.app/`
 ---
 
-## 📊 Estatísticas de Atividade
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/JoaoSandovall">
@@ -82,10 +83,10 @@ Este projeto é uma ferramenta de auditoria automatizada para documentos legais,
 ## 📫 Contato
 
 <p align="left">
-  <a href="www.linkedin.com/in/joão-pedro-sandoval" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-pedro-sandoval" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="jpsandovalveras@aqui.com" target="_blank">
+  <a href="mailto:jpsandovalveras@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
