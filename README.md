@@ -65,7 +65,7 @@ Ferramenta de cálculo financeiro e consumo de dados automotivos em tempo real.
 * **Integração de Dados:** Consumo assíncrono da API Parallelum para recuperação de dados oficiais da Tabela FIPE.
 * **Motor de Cálculo:** Implementação da Tabela Price para simulação de parcelamentos e juros compostos.
 * **DevOps:** Dockerização da aplicação e deploy via Serverless Functions na Vercel.
-* **Projeto:** [Simulador FIPE](https://github.com/JoaoSandovall/simulador_por_fipe)
+* **Projeto:** [Simulador FIPE](https://simulador-por-fipe.vercel.app/)
 
 ---
 
