@@ -69,21 +69,10 @@ Ferramenta de cálculo financeiro e consumo de dados automotivos em tempo real.
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/JoaoSandovall">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSandovall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSandovall&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joão-pedro-sandoval" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sandoval/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jpsandovalveras@gmail.com">
