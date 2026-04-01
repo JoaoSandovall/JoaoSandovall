@@ -30,7 +30,7 @@
   <tr>
     <td align="center"><strong>DevOps & Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="DevOps Skills" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github," alt="DevOps Skills" />
     </td>
   </tr>
 </table>
