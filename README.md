@@ -9,7 +9,7 @@ Atuação na construção de APIs REST, desenvolvimento backend e modelagem de b
 * Frontend: JavaScript, TypeScript, React, HTML5, CSS3.
 * Bancos de Dados e ORM: PostgreSQL, MySQL, SQLAlchemy, Alembic.
 * Extração e Validação: Expressões Regulares (RegEx), Pydantic.
-* Infraestrutura e Integrações: Docker, Docker Compose, Git, Vercel, consumo de APIs REST assíncronas.
+* Infraestrutura e Integrações: Docker, Docker Compose, Git.
 
 ## PROJETOS
 
