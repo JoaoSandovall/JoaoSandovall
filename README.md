@@ -1,7 +1,7 @@
 # JOÃO PEDRO SANDOVAL VERAS
-Desenvolvedor Backend / Full-Stack
+Desenvolvedor
 
-Atuação na construção de APIs REST, desenvolvimento de rotinas de backend e modelagem de bancos de dados relacionais.
+Atuação na construção de APIs REST, desenvolvimento backend e modelagem de bancos de dados relacionais.
 
 ## STACK DE TECNOLOGIAS
 
