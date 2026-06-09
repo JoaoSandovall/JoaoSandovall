@@ -3,8 +3,6 @@ Desenvolvedor
 
 Atuação na construção de APIs REST, desenvolvimento backend e modelagem de bancos de dados relacionais.
 
-## STACK DE TECNOLOGIAS
-
 * Backend: Python, FastAPI, Flask.
 * Frontend: JavaScript, TypeScript, React, HTML5, CSS3.
 * Bancos de Dados e ORM: PostgreSQL, MySQL, SQLAlchemy, Alembic.
