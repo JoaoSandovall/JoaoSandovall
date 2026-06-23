@@ -10,12 +10,6 @@ Atuação na construção de APIs REST assíncronas, modelagem de bancos de dado
 * **Extração e Validação:** Expressões Regulares (RegEx), Pydantic.
 * **Infraestrutura e Integrações:** Docker, Git, Vercel, Render.
 
-## EXPERIÊNCIA ATUAL
-
-**Estagiário de TI | Ministério da Integração e do Desenvolvimento Regional (MIDR)**
-* Desenvolvimento de pipelines em Python para validação automatizada de minutas normativas e extração de textos estruturados via RegEx.
-* Refatoração de fluxos de BI, processamento de cálculos em memória (DAX) e otimização de modelagem relacional no Power BI.
-
 ## PROJETOS EM DESTAQUE
 
 ### IPA Psicologia (Freelance)
