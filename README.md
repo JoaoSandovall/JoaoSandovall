@@ -1,48 +1,39 @@
-# JOÃO PEDRO SANDOVAL VERAS
+<div align="center">
 
-**Desenvolvedor Full-Stack**
+# João Pedro Sandoval Veras
 
-Atuação na construção de APIs REST assíncronas, modelagem de bancos de dados relacionais e extração/validação estruturada de dados, integrados a interfaces frontend reativas.
+### Desenvolvedor Full-Stack
 
-* **Backend:** Python, FastAPI, Flask.
-* **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS.
-* **Bancos de Dados e ORM:** PostgreSQL, MySQL, SQLAlchemy, Alembic.
-* **Extração e Validação:** Expressões Regulares (RegEx), Pydantic.
-* **Infraestrutura e Integrações:** Docker, Git, Vercel, Render.
+</div>
 
-## PROJETOS EM DESTAQUE
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=120&section=header" width="100%"/>
+</p>
 
-### IPA Psicologia (Freelance)
-Desenvolvimento frontend de aplicação web focada em performance no lado do cliente.
-* **Stack:** React, TypeScript, Tailwind CSS, Shadcn UI, Vite.
-* **Desenvolvimento:** Implementação de tipagem estrita no lado do cliente e estruturação de interface modularizada utilizando componentes padronizados do Shadcn UI.
+Desenvolvedor Full-Stack. No back-end, construo APIs REST assíncronas em Python (FastAPI, Flask), executo a modelagem de bancos de dados relacionais (PostgreSQL, MySQL) e desenvolvo rotinas de extração de dados não estruturados com validação estrita via Pydantic. No front-end, desenvolvo interfaces em React e TypeScript, aplicando tipagem estrita no client-side e estruturação modular em componentes funcionais. Adicionalmente, gerencio a infraestrutura da aplicação utilizando Docker e realizo o controle de versão estrutural do banco de dados via Alembic.
 
-### Gestão de Entidades (Colegiados)
-Arquitetura Full-Stack com separação de responsabilidades e controle rigoroso de estado.
-* **Stack:** Python, FastAPI, React, TypeScript, PostgreSQL.
-* **Desenvolvimento:** Modelagem de regras de integridade relacional (constraints) no banco de dados para bloqueio transacional de registros duplicados e gerenciamento de migrações estruturais via Alembic.
+Brasília, DF · jpsandovalveras@gmail.com
 
-### Auditor de Minutas de Resolução
-API assíncrona para checagem de conformidade de normativos governamentais.
-* **Stack:** Python, FastAPI, Pydantic, RegEx.
-* **Desenvolvimento:** Execução de parsing de texto via Expressões Regulares (RegEx) associada à validação estrita de payloads lógicos com Pydantic antes da transação. 
-* **Infraestrutura:** Deploy de arquitetura Serverless.
-* **Link:** https://verificacao-minuta.vercel.app/
+---
 
-### Agregador de Links Multiusuário (SaaS)
-Aplicação monolítica com controle de sessão e mapeamento objeto-relacional.
-* **Stack:** Python, Flask, PostgreSQL, SQLAlchemy.
-* **Desenvolvimento:** Implementação de rotinas de autenticação, hashing, proteção de rotas e transações persistentes com banco relacional gerenciado por migrações estruturais.
-* **Link:** https://agregador-links.onrender.com/login
+## Stack
 
-### Simulador de Financiamento & Consulta FIPE
-Motor de cálculo financeiro integrado a ingestão de dados de terceiros.
-* **Stack:** Python, Flask, Docker, JavaScript.
-* **Desenvolvimento:** Configuração de requisições assíncronas (JS) no client-side para consumo da API REST externa Parallelum. Isolamento de ambiente e dependências da aplicação via Docker.
-* **Link:** https://simulador-por-fipe.vercel.app/
+**Backend:** Python · FastAPI · Flask · Pydantic · SQLAlchemy · Alembic
 
-## CONTATO
+**Frontend:** TypeScript · React · Tailwind CSS · Vite
 
-* **LinkedIn:** [linkedin.com/in/jpsandovalveras](https://www.linkedin.com/in/jpsandovalveras)
-* **GitHub:** [github.com/JoaoSandovall](https://github.com/JoaoSandovall)
-* **E-mail:** jpsandovalveras@gmail.com
+**Dados:** PostgreSQL · MySQL · RegEx
+
+**Infra:** Docker · Git
+
+---
+
+<p align="center">
+  <a href="https://github.com/JoaoSandovall"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="www.linkedin.com/in/joãosandoval"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jpsandovalveras@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=100&section=footer" width="100%"/>
+</p>
